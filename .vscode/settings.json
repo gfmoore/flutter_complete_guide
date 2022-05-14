@@ -1,0 +1,9 @@
+{
+  "editor.hover.enabled": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "emmet.showSuggestionsAsSnippets": true,
+  "editor.tabCompletion": "on",
+  "editor.snippetSuggestions": "top",
+  "editor.tabSize": 2,
+  "C_Cpp.errorSquiggles": "Enabled"
+}
